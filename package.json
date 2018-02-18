@@ -1,15 +1,15 @@
 {
-  "name": "tough-cookie-file-store",
+  "name": "tough-cookie-google-drive-store",
   "description": "Another file store for tough-cookie module",
   "version": "1.2.0",
   "author": "Ivan Marban",
-  "homepage": "https://github.com/ivanmarban/tough-cookie-file-store",
+  "homepage": "https://github.com/roto5296/tough-cookie-google-drive-store",
   "repository": {
     "type": "git",
-    "url": "http://github.com/ivanmarban/tough-cookie-file-store.git"
+    "url": "https://github.com/roto5296/tough-cookie-google-drive-store"
   },
   "bugs": {
-    "url": "https://github.com/ivanmarban/tough-cookie-file-store/issues"
+    "url": "https://github.com/roto5296/tough-cookie-google-drive-store/issues"
   },
   "keywords": [
     "cookie",
@@ -19,6 +19,8 @@
     "store"
   ],
   "dependencies": {
+    "googleapis": "^26.0.1",
+    "request": "^2.83.0",
     "tough-cookie": "^2.3.3"
   },
   "main": "index",
