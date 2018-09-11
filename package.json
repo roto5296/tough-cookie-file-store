@@ -20,8 +20,8 @@
   ],
   "dependencies": {
     "googleapis": "^26.0.1",
-    "request": "^2.83.0",
-    "tough-cookie": "^2.3.3"
+    "request": "^2.88.0",
+    "tough-cookie": "^2.4.3"
   },
   "main": "index",
   "engines": {
